@@ -42,7 +42,7 @@ export const createTag = async (req, res) => {
     console.log("Unexpected error:", error);
     res.status(500).json({ error: 'Failed to create tag' });
   }
-}; 
+};
 
 // Obtener todas las etiquetas de un usuario
 export const getTags = async (req, res) => {

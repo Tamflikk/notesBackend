@@ -52,7 +52,7 @@ http://localhost:3000/api-docs
 
 ## Base de Datos
 
-Esquema en `/supabase/migrations/`. Tablas principales:
+Esquema en `/supabase/migrations/`
 
 ## Autenticación en Swagger
 
